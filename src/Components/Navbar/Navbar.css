@@ -1,0 +1,41 @@
+.topbar{
+    font-size: small;
+    background-color:rgb(5, 5, 65);
+    color: white;
+}
+.topbar a{
+    text-decoration: none;
+    color: white;
+}
+.topbar a:hover{
+    color:rgb(255, 174, 0);
+}
+.navbar-item{
+    margin-left: 70%; 
+    text-decoration: none;
+
+    
+
+    
+}
+.navbar-item a{
+    color:rgb(3, 14, 58) ;
+    padding-bottom: 30px;
+    margin-top:20px;
+    border: 0px solid rgb(255, 174, 0);
+    text-decoration: none;
+    
+}
+
+.navbar-item a:hover{
+    border-bottom: 3px solid rgb(255, 174, 0);
+    color:rgb(3, 14, 58) ;
+}
+/* .nav-toggle{
+    background-color:grey;
+    
+}
+.nav-toggle-icon{
+    text-shadow:black;
+} */
+

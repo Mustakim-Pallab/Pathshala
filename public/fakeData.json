@@ -1,0 +1,79 @@
+[{
+    "name": "IBM Cybar Security Analyst",
+    "company": "IBM",
+    "speciality":"Professional Certificate",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/67/6a8a23c93d424fa3a39138428681f3/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png?auto=compress&dpr=1&w=268",
+    "Cost": 150
+  },
+{
+    "name": "Google Data Analyst",
+    "company": "Google",
+    "speciality":"Professional Certificate",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ba/e14875b76f4e799e067d3551076e8c/1200x600_DA.png?auto=compress&dpr=1&w=268",
+    "Cost": 100
+  },
+{
+    "name": "Google UX Design",
+    "company": "Google",
+    "speciality":"Professional Certificate",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/75/32388ec64444d7a2b09297c0b59c56/1200x600_UXD.png?auto=compress&dpr=1&w=268",
+    "Cost": 80
+  },
+{
+    "name": "Facebook Social Media Marketing",
+    "company": "Facebook",
+    "speciality":"Professional Certificate",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/02/41460a29d744dfa39106941eae2e02/fb-specialization.png?auto=compress&dpr=1&w=268",
+    "Cost": 300
+  },
+{
+    "name": "English for Career Development",
+    "company": "University of Pennsylvania",
+    "speciality":"Course",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bb/62e6a0120b11e6bc32c330496bd91a/Career-Development.jpg?auto=compress&dpr=1&w=268",
+    "Cost": 130
+  },
+{
+    "name": "Innovtion Through Design: Think, Make, Break, Repeat",
+    "company": "The University of Sydney",
+    "speciality":"Course",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2c/fdebb0728711e8a431b1fb8caaf072/MOOC-Logo.fw.png?auto=compress&dpr=1&w=268",
+    "Cost": 50
+  },
+{
+    "name": "Powerful Tools for Teaching and Learning: Digital Storytelling",
+    "company": "University of Houston",
+    "speciality":"Professional Certificate",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/3d/934c303d6a11e6be95c9364677a51a/ds_mooc_logo_text-_1_.jpg?auto=compress&dpr=1&w=268",
+    "Cost": 120
+  },
+
+{
+    "name": "Successful Negotiation: Essential Strategies and Skills",
+    "company": "University of Michigan",
+    "speciality":"Online Certificate",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/99/7ab7c00f7b11e79b617dbb2116532d/contractnegotiations_Logo_080814d.jpg?auto=compress&dpr=1&w=268",
+    "Cost": 310
+  },
+{
+    "name": "Foundation of Mindfulness",
+    "company": "Rice University",
+    "speciality":"Course",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/46/e8fe37da624f05844a8b5d1fe58a6e/FoM-Logo-1.jpg?auto=compress&dpr=1&w=268",
+    "Cost": 230
+  },
+{
+    "name": "The Brain and Space",
+    "company": "Duke University",
+    "speciality":"Online Certificate",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/96/8feec0c05011e5bb8d1741d4288bfa/brain_icon-square.jpg?auto=compress&dpr=1&w=268",
+    "Cost": 200
+  },
+{
+    "name": "The Science of Well-Being",
+    "company": "Yale University",
+    "speciality":"Course",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/7e/aff5b0f54c11e7b5ae579a0e963c38/Logo_TheScienceofWell-Being.png?auto=compress&dpr=1&w=268",
+    "Cost": 150
+
+}]

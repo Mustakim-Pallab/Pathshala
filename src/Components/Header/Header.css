@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Andada+Pro:ital,wght@1,500&family=Josefin+Sans:ital@1&display=swap');
+
+
+*{
+    overflow-x: hidden;
+    
+}
+.imgwidth{
+    width:100%;
+    overflow-y:hidden;
+    
+}
+
+.header {
+   
+    
+    position: relative;
+
+    display:flex;
+    flex-direction: column;
+    overflow:hidden;
+    
+    
+}
+
+.backgroundcolor {
+    position: absolute;
+    margin-top:0px;
+    background-color: rgba(0, 0, 0, 0.767);
+    height: 600px;
+}
+.words{
+    margin-top:180px;
+    display:flex;
+    flex-direction: column;
+    margin-left:150px;
+    margin-right: 300px;
+    color: white;
+    text-align: justify;
+}
+#h2{
+    font-family: 'Josefin Sans', sans-serif;
+    overflow:hidden;
+    
+}
+#h1{
+    font-family: 'Abril Fatface', cursive;
+    overflow:hidden;
+    
+}
+#h5{
+    font-family: 'Andada Pro', serif;
+    overflow:hidden;
+    padding-top:90px;
+    padding-left: 0px;
+    padding-top: 20px;
+    margin-right: 20px;
+    padding-bottom:50px;
+    
+
+}
+
+#button{
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    padding: 10px;
+    width:200px;
+    border: 1px solid white;
+    border-radius: 5px;
+
+}
+#button:hover{
+    background-color: rgb(255, 174, 0);
+    color:black;
+    
+}

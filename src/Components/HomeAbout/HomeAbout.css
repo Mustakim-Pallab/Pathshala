@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Palanquin:wght@300&family=Shrikhand&display=swap');
+
+
+.imagesize{
+    width:400px;
+}
+.HomeAbout h1{
+    overflow-y:hidden;
+    margin-bottom:70px;
+    color:rgb(7, 4, 44);
+    font-family: 'Andada Pro', serif;
+}
+.HomeAbout p{
+    color: rgb(65, 62, 62);
+    margin-left: 10px;
+    text-align: justify;
+    font-family: 'Palanquin', sans-serif;
+    font-size:1.5em;
+    overflow: hidden;
+}
+
+.HomeAbout button{
+    background-color:white;
+    color:rgb(7, 4, 44);
+    border:2px solid rgb(136, 128, 128);
+    padding:10px;
+    border-radius: 15px;
+    margin-left: 50px;
+    width: 200px;
+}
+.HomeAbout button:hover{
+    background-color:rgb(7, 4, 44);
+    color:white;
+}
