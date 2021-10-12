@@ -3,7 +3,8 @@
 
 
 .HomeServices{
-    margin-top:50px;
+    margin-top:70px;
+    margin-bottom:150px;
 
 }
 
@@ -19,9 +20,8 @@ h1{
 p{
     font-family: 'Domine', serif;
     
-    margin-left: -20px;
+    margin-left: -23px;
     padding-bottom: 50px;
-    display:flex;
-    justify-content:center;;
-
+    /* display:flex;
+    justify-content:center; */
 }

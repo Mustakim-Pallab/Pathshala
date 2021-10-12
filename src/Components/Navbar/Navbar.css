@@ -2,6 +2,9 @@
     font-size: small;
     background-color:rgb(5, 5, 65);
     color: white;
+    height: 65px;
+    overflow-y: hidden;
+    
 }
 .topbar a{
     text-decoration: none;
@@ -31,11 +34,5 @@
     border-bottom: 3px solid rgb(255, 174, 0);
     color:rgb(3, 14, 58) ;
 }
-/* .nav-toggle{
-    background-color:grey;
-    
-}
-.nav-toggle-icon{
-    text-shadow:black;
-} */
+
 

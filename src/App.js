@@ -7,6 +7,7 @@ import HomeAbout from './Components/HomeAbout/HomeAbout';
 import HomeServices from './Components/HomeServices/HomeServices';
 import Universities from './Components/Universities/Universities';
 import Services from './Components/Services/Services';
+import Footer from './Components/Footer/Footer';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <Universities></Universities>
       {/* <Services></Services> */}
       <HomeServices></HomeServices>
+      <Footer></Footer>
 
     </div>
 );

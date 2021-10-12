@@ -41,18 +41,21 @@
 #h2{
     font-family: 'Josefin Sans', sans-serif;
     overflow:hidden;
+    margin-bottom: -10px;
     
 }
 #h1{
     font-family: 'Abril Fatface', cursive;
     overflow:hidden;
+    margin-left:-50px;
     
 }
 #h5{
     font-family: 'Andada Pro', serif;
     overflow:hidden;
+    margin-top: -30px;
     padding-top:90px;
-    padding-left: 0px;
+    padding-left: 2px;
     padding-top: 20px;
     margin-right: 20px;
     padding-bottom:50px;
@@ -67,6 +70,7 @@
     width:200px;
     border: 1px solid white;
     border-radius: 5px;
+    margin-left: 2px;
 
 }
 #button:hover{
