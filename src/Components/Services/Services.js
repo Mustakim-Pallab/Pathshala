@@ -1,6 +1,7 @@
 import React,{useState,useEffect} from 'react';
 import './Services.css';
 import Service from '../Service/Service';
+import Searchbox from '../Searchbox/Searchbox';
 
 const Services = () => {
     const[Services,setServices]=useState([]);
@@ -13,7 +14,15 @@ const Services = () => {
 
     return (
         
-        <main className=" container">
+        <main className="services">
+            <div className=" container services">
+            <h1 className="headline">
+                Find The best Course and Enroll
+            </h1>
+            <p class="p">
+                World Class Courses are in your Doorstep! 
+            </p>
+            <Searchbox></Searchbox>
             <div className=" row">
                 
                     {
@@ -25,6 +34,7 @@ const Services = () => {
                     }
                 
                
+            </div>
             </div>
         </main>
     );

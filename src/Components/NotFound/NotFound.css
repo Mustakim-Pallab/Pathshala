@@ -1,0 +1,15 @@
+
+ .NotFound{
+    margin: 100px;
+ }   
+.NotFound h1{
+
+    display: flex;
+    justify-content: center;
+    color:red;
+    
+}
+.NotFound p{
+    display: flex;
+    justify-content: center;
+}

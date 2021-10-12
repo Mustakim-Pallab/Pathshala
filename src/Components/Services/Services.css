@@ -1,0 +1,11 @@
+
+.services{
+    background-color:aliceblue;
+}
+.p{
+    display:flex;
+    justify-content: center;
+}
+.headline{
+    margin-top:60px;
+}

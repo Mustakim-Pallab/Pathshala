@@ -1,5 +1,6 @@
 
 import React from 'react';
+import { Link } from 'react-router-dom';
 import logo from '../../Images/logo.PNG' 
 import './Navbar.css'
 
@@ -37,18 +38,26 @@ const Navbar = () => {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0 navbar-item">
                         <li className="nav-item nav mx-2 mt-2">
-                        <a className=" " aria-current="page" href="/#">Home</a>
-                        </li>
-                        <li className="nav-item nav mx-2 mt-2">
-                        <a className=" " aria-current="page" href="/#">About Us</a>
-                        </li>
-                        <li className="nav-item nav mx-2 mt-2">
-                        <a className=" " aria-current="page" href="/#">Services</a>
-                        </li>
-                        <li className="nav-item nav mx-2 mt-2">
-                        <a className=" " aria-current="page" href="/#">Others</a>
-                        </li>
                         
+
+                        <Link to="/Home">Home</Link>
+
+                        </li>
+                        <li className="nav-item nav mx-2 mt-2">
+                        
+
+                        <Link to="/aboutus">About Us</Link>
+
+                        </li>
+                        <li className="nav-item nav mx-2 mt-2">
+                        
+
+                        <Link to="services">Services</Link>
+
+                        </li>
+                        <li className="nav-item nav mx-2 mt-2">
+                        <Link to="/gallery">Gallery</Link>
+                        </li>
                     </ul>
                     
                     </div>

@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 import './Footer.css'
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faFacebookF, faGoogle, faInstagram, faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons'
-import { faPaperPlane, faEnvelopeOpen } from '@fortawesome/free-regular-svg-icons'
+import { faFacebookF, faInstagram, faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons'
+
 
 const Footer = () => {
     return (
@@ -16,16 +16,16 @@ const Footer = () => {
                     <div className="col-11">
                         <div className="row pe-5">
                             <div className="col-xl-8 col-md-4 col-sm-4 col-12 my-auto mx-auto a">
-                                <h3 className="text-muted mb-md-0 mb-5 bold-text ">PATHSHALA.</h3>
+                                <h3 className="text-muted mb-md-0 mb-5 bold-text ">PATHSHALA&trade;</h3>
                             </div>
                             <div className="col-xl-2 col-md-4 col-sm-4 col-12">
                                 <h6 className="mb-3 mb-lg-4 bold-text "><b>MENU</b></h6>
                                 <ul className="list-unstyled">
                                     <li className="py-1"></li>
-                                    <li className="py-1">Home</li>
-                                    <li className="py-1">Services</li>
-                                    <li className="py-1">Customers</li>
-                                    <li className="py-1">About Us</li>
+                                    <li className="py-1"><Link to="/" className="link">Home</Link></li>
+                                    <li className="py-1"><Link to="/aboutus"  className="link">About Us</Link></li>
+                                    <li className="py-1"><Link to="/services" className="link" >Services</Link></li>
+                                    <li className="py-1"><Link to="/gallery"  className="link">Gallery</Link></li>
                                 </ul>
                             </div>
                             <div className="col-xl-2 col-md-4 col-sm-4 col-12">

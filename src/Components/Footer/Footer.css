@@ -40,10 +40,15 @@
     font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important
 }
 
-.footer-link {
+.link {
     color: #e3e3e3 !important;
     text-decoration: none;
 }
+.link:hover {
+    color: rgb(231, 15, 15) !important;
+    text-decoration: none;
+}
+
 
 /* NewsLetter */
 

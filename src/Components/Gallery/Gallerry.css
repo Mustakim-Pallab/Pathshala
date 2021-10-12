@@ -1,0 +1,11 @@
+.imgdiv{
+    overflow-y: hidden;
+    margin-top: 10px;
+}
+.gallery{
+    background-color:blanchedalmond;
+    margin: 50px;
+    padding: 0px;
+    border-radius: 20px;
+    margin-top: 0px;
+}
