@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Service from '../Service/Service';
-import Services from '../Services/Services';
 import './HomeServices.css'
 
 const HomeServices = () => {
@@ -14,7 +13,7 @@ const HomeServices = () => {
 
     return (
         
-        <main className=" container HomeServices">
+        <main className=" m-5 p-2 HomeServices">
             <h1 className=" h1">
             Get job-ready for an in-demand career
             </h1>
@@ -23,7 +22,7 @@ const HomeServices = () => {
                 
                     {
                         
-                        Services.slice(0,3).map(service => 
+                        Services.slice(0,4).map(service => 
                             
                             <Service service={service} key={service.name}></Service>
                             )

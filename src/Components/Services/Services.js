@@ -14,8 +14,8 @@ const Services = () => {
 
     return (
         
-        <main className="services">
-            <div className=" container services">
+        <main className="services m-4 ">
+            <div className=" ">
             <h1 className="headline">
                 Find The best Course and Enroll
             </h1>
@@ -23,7 +23,7 @@ const Services = () => {
                 World Class Courses are in your Doorstep! 
             </p>
             <Searchbox></Searchbox>
-            <div className=" row">
+            <div className=" row m-3">
                 
                     {
                         

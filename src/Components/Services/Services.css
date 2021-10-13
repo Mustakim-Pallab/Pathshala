@@ -1,6 +1,7 @@
 
 .services{
     background-color:aliceblue;
+    border-radius:10px;
 }
 .p{
     display:flex;
