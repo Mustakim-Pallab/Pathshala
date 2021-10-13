@@ -1,6 +1,6 @@
 # PATHSHALA, An e-learning Platform
 
-live site link: pathshala-mustakim.netlify.app
+live site link: https://pathshala-mustakim.netlify.app/
 
 ## Site Overview
 
