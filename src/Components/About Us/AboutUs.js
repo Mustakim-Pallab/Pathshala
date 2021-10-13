@@ -19,7 +19,7 @@ const AboutUs = () => {
 
 
                 </div>
-                {/* <div className="col-1"></div> */}
+                
                 <div className="col-6">
                     <img src={pic1} alt=""  className=" w-100 "/>
                 </div>
@@ -42,12 +42,8 @@ const AboutUs = () => {
                         We Provide degrees from the best universities of the world under the supervision of renowned professors. You have to complete exams, assignments and lectures with a minimum score of 70%. We provide shareable certificates that are as valuable as the certificates provide by those universities to their students physically. <br /> <br /> Learn From the otherside of the World that requires No Visas, No Passport, No Travel fees! 
 
                     </p>
-                    
 
-
-                </div>
-                
-                
+                </div>     
                 
             </div>
         </div>
